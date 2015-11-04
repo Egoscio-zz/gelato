@@ -1,5 +1,4 @@
 ## The Gelato vanilla server manager for Minecraft
----
 
 ### What's Gelato?
 Gelato is a straightforward server manager written in Node.JS and built specifically for vanilla servers. It's modular design allows for seperate aspects of the server to run independantly.
