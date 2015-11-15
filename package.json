@@ -1,0 +1,22 @@
+{
+  "name": "gelato",
+  "version": "1.0.0",
+  "description": "The Gelato Vanilla Server Manager for Minecraft (GVSM)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egoscio/gelato.git"
+  },
+  "keywords": [
+    "minecraft",
+    "vanilla",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Egoscio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Egoscio/gelato/issues"
+  },
+  "homepage": "https://github.com/Egoscio/gelato#readme"
+}
