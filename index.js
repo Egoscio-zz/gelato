@@ -7,5 +7,5 @@ module.exports = {
 	Minecraft: require('./lib/minecraft.js'),
 	Netrix: require('./lib/netrix.js'),
 	Proxy: require('./lib/proxy.js'),
-	Toolbox = require('./lib/toolbox.js')
+	Toolbox: require('./lib/toolbox.js')
 };
