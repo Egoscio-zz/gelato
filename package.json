@@ -5,14 +5,18 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Egoscio/gelato.git"
+    "url": "https://github.com/Egoscio/gelato.git"
   },
   "keywords": [
     "minecraft",
     "vanilla",
-    "nodejs",
-    "javascript"
+    "server",
+    "manager",
+    "gelato"
   ],
+  "dependencies": {
+    "minecraft-protocol": "https://github.com/PrismarineJS/node-minecraft-protocol.git"
+  },
   "author": "Egoscio",
   "license": "MIT",
   "bugs": {
