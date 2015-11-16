@@ -15,7 +15,7 @@
     "gelato"
   ],
   "dependencies": {
-    "minecraft-protocol": "https://github.com/PrismarineJS/node-minecraft-protocol.git"
+    "minecraft-protocol": "^0.16.0"
   },
   "author": "Egoscio",
   "license": "MIT",
