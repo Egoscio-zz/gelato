@@ -1,11 +1,12 @@
 /*
- * index.js - The heart of Gelato
+ * index.js - The cone of gelato.
  */
 
 module.exports = {
 	Command: require('./lib/command.js'),
-	Minecraft: require('./lib/minecraft.js'),
-	Netrix: require('./lib/netrix.js'),
+	minecraft: require('./lib/minecraft.js'),
+	netrix: require('./lib/netrix.js'),
 	Proxy: require('./lib/proxy.js'),
-	Toolbox: require('./lib/toolbox.js')
+	toolbox: require('./lib/toolbox.js'),
+	Votifier: require('./lib/votifier.js')
 };
